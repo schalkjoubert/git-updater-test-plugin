@@ -21,5 +21,3 @@ function test_print_notice() {
 		set_text()
 	);
 }
-
-this is error
