@@ -1,12 +1,11 @@
-=== Test Plugin ===
-Contributors: user, user, user
-Tags: tag, tag, tag
-Donate link: http://example.com/
-Requires at least: 4.0
-Tested up to: 4.8
-Requires PHP: 5.6
-Stable tag: 1.1
-License: GPLv2 or later
+=== Example plugin ===
+Contributors: Schalk Joubert
+Donate link: http://www.thissideupmedia.com
+Tags: comments, spam
+Requires at least: 6.0
+Tested up to: 6.0
+Stable tag: 2.0
+License: Proprietar
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Short description of this great plugin. No more than 150 characters, no markup.
